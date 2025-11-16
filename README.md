@@ -1,2 +1,0 @@
-# nvim-themes
-Mi nvim
