@@ -1,8 +1,11 @@
 ## ＮＶＩＭ  ＴＨＥＭＥＳ 
 
-Entorno de Neovim, limpio, modular y potenciado con *Lazy.nvim*, Treesitter, LSP y todas las comodidades modernas. Este README te guía para instalarlo y entender su estructura.
+*Este proyecto contiene mi thema de **nvim***
 
 ---
+![nvim1](assets/nvim1.jpeg)
+![nvim2](assets/nvim2.jpeg)
+
 
 ## Instalación
 
@@ -67,26 +70,7 @@ Lazy.nvim detectará los plugins y realizará la instalación.
         ├── tokyonight.lua
         └── treesitter.lua
 ```
-
-### **Explicación breve**
-
-* **init.lua** → Punto de entrada; carga configuraciones y plugins.
-* **lazy-lock.json** → Archivo generado por Lazy.nvim para versiones fijas.
-* **lua/config/** → Configuración base del gestor de plugins.
-* **lua/plugins/** → Módulos individuales de cada plugin (modular y limpio).
-
 ---
-
-## Plugins destacados
-
-* **Treesitter** → Syntax highlighting avanzado.
-* **LSP + none-ls** → Autocompletado, diagnósticos y formateo.
-* **Telescope** → Fuzzy finder para todo.
-* **Gitsigns** → Integración con Git.
-* **Neo-tree** → Explorador de archivos moderno.
-* **Tokyonight** → Tema elegante y oscuro.
-* **Lualine** → Barra de estado minimalista.
-
 ---
 
 ## Probando la configuración
