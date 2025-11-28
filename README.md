@@ -71,16 +71,6 @@ Lazy.nvim detectará los plugins y realizará la instalación.
         └── treesitter.lua
 ```
 ---
----
-
-## Probando la configuración
-
-Dentro de Neovim:
-
-* Explorar archivos → `:Neotree`
-* Buscar archivos → `<leader>ff`
-* Ver diagnósticos → `:Trouble`
-* Ver Git diff → signos en el gutter
 
 ---
 
