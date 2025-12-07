@@ -71,5 +71,3 @@ Lazy.nvim detectará los plugins y realizará la instalación.
         └── treesitter.lua
 ```
 ---
----
-
