@@ -6,17 +6,20 @@
 ![nvim1](assets/nvim1.jpeg)
 ![nvim2](assets/nvim2.jpeg)
 
+---
 
 ## Instalación
 
 Sigue estos pasos para usar esta configuración en tu sistema:
+
+---
 
 ### **1️⃣ Clona el repositorio**
 
 ```bash
 git clone https://github.com/espinalclark/Nvim-Themes.git ~/.config/nvim
 ```
-
+---
 
 ### **2️⃣ Instala Neovim **
 
@@ -31,12 +34,14 @@ Debian/Ubuntu:
 ```bash
 sudo apt install neovim
 ```
+---
 
 ### **3️⃣ Instala Nerd Fonts **
 
 ```bash
 sudo pacman -S nerd-fonts
 ```
+---
 
 ### **4️⃣ Abre Neovim para instalar plugins automáticamente**
 
